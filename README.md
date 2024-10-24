@@ -12,7 +12,8 @@ AtliQ sells its products through three channels:
 
 ## Project Objectives:
 ### Sales Analysis:
-- [x]	Create a customer performance report to determine effective discounts and identify potential business expansion opportunities.
+- [x]	Create a Customer performance report to determine effective discounts and identify potential business expansion opportunities.(https://github.com/Nitheeshknk/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+- [x]	Create a Market performance vs Target to facilitate Negotiations with Customers.
 ## Finance Analysis:
 - [x]	Develop Profit and Loss (P&L) statements by fiscal year, market, month, and quarter to support strategic decision-making and facilitate communication with stakeholders.
 
