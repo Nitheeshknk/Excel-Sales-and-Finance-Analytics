@@ -25,10 +25,11 @@ AtliQ sells its products through three channels:
 ## Data Cleaning and Preparation:
 ### ETL Process: (Extract,Teansform ,Load):
 - [x]	Loaded CSV files into Power Query, cleaned, and transformed the data to ensure it was ready for analysis.
-## Pivot Table and Power Pivot:
+## Power Pivot:
 - [x]	Created relationships between dimension tables and appropriate fact tables.
 - [x]	Developed DAX measures to calculate net sales for 2019, 2020, and 2021, as well as Gross margin and cost of goods sold (COGS).
-
+## Pivot Table:
+- [x] Summarised the Data based on Specific Requirements. 
 ## Conditional Formatting:
 - [x]	Applied conditional formatting to enhance readability and user experience, highlighting key metrics for better visibility.
 
@@ -43,14 +44,12 @@ AtliQ sells its products through three channels:
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
 - [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
 
 ## Soft Skills:
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+
 
 
 
