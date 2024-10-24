@@ -34,7 +34,7 @@ AtliQ sells its products through three channels:
 - [x]	Top 10 Products with Highest Percentage increase in NetSales from 2021 to 2011.
 - [x]	Top and Bottom 5 Products By Quantity Sold.
 - [x]	New Products Launhed By AtliQ in 2021.
-- [x] Top % MArkets with Highest Sales Contribution.
+- [x] Top 5 Markets with Highest Sales Contribution.
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
