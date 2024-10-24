@@ -15,7 +15,8 @@ AtliQ sells its products through three channels:
 - [x]	Create a Customer performance report to determine effective discounts and identify potential business expansion opportunities.(https://github.com/Nitheeshknk/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 - [x]	Create a Market performance vs Target to facilitate Negotiations with Customers.(https://github.com/Nitheeshknk/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
 ## Finance Analysis:
-- [x]	Develop Profit and Loss (P&L) statements by Fiscal Year, Month,Quarter and Market to support strategic decision-making and facilitate communication with stakeholders.
+- [x]	Develop Profit and Loss (P&L) statements by Fiscal Year, Month,Quarter and Market to support strategic decision-making and facilitate communication with stakeholders.(https://github.com/Nitheeshknk/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20Statement%20By%20Fiscal%20Years.pdf)
+      
 
 ## Steps Taken to Achieve Project Objectives:
 ### Data Collection:
